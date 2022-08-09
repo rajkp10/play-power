@@ -7,7 +7,8 @@ import { motion } from "framer-motion";
 function App() {
   return (
     <VStack
-      w="100vw"
+      w="100%"
+      my={4}
       as={motion.div}
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
