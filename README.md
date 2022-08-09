@@ -1,3 +1,13 @@
+It is a part of Play Power Labs Frontend Task
+
+# Live Demo
+
+https://playpower-rajkp10.netlify.app/
+
+# Tools
+
+ReactJS, ChakraUI, Framer Motion and nanoid
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
