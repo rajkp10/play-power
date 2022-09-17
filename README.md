@@ -8,6 +8,10 @@ https://playpower-rajkp10.netlify.app/
 
 ReactJS, ChakraUI, Framer Motion and nanoid
 
+# Preview
+
+![playpower](https://user-images.githubusercontent.com/96880670/190869613-60ef312a-ba45-470e-98b4-ecbb2b1d654c.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
